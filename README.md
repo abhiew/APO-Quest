@@ -34,6 +34,10 @@ graph TD
     F --> I[FDE Deployment Directives]
     F --> J[OpenClaw SKILL Draft]
 ```
+- **[APO Agent]**: Defends the 48hr timeline. Cuts 80% of "nice-to-have" scope.
+- **[FDE Agent]**: Enforces hardware/edge constraints. Rejects heavy cloud compute.
+- **[QA Agent]**: Attacks latency limits and model selection.
+- **[Swarm Consensus]**: Outputs the surviving MVP Focus, rejected features, and technical execution directives.
 
 ## 3. Performance Metrics (MVP Velocity Index)
 
