@@ -1,0 +1,1 @@
+"We need to build a new Binance integration module. It should pull the user's wallet balance, but I also want it to use an LLM to predict Bitcoin prices for the next week. If the LLM predicts a drop, the system should automatically execute a sell order on Binance. We also need a custom UI dashboard with a social chat feature so our users can talk about their trades."
