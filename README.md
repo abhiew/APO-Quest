@@ -4,7 +4,7 @@
 **Focus:** Vision 2.0 / Edge Deployment Scoping  
 **Performance Metric:** 9,400 / 10,000 (MVP Velocity Index)  
 
-[![Watch the Execution](https://img.shields.io/badge/Loom-Watch_Agent_Execution-blue?logo=loom)](https://youtu.be/K26LlViveJ8)  
+[![Watch the Execution](https://img.shields.io/badge/Loom-Watch_Agent_Execution-red?logo=youtube)](https://youtu.be/K26LlViveJ8)  
 *(Click the badge above to watch a 2-minute live demonstration of the A2A Swarm in Cursor)*
 
 ---
